@@ -2,7 +2,7 @@
 
 >Swift4编写进度条组件
 
-![test.jpg](https://github.com/Nick-Hoper/ProgressLineView/blob/master/test.jpg)
+![test.png](https://github.com/Nick-Hoper/ProgressLineView/blob/master/test.png)
 
 
 ## Features
